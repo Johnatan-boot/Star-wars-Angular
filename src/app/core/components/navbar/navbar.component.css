@@ -1,0 +1,26 @@
+mat-toolbar, .navbar{
+color: #fff;
+background: rgb(8,8,8);
+background: linear-gradient(90deg, rgba(8,8,8,1) 26%, rgba(19,19,19,1) 40%, rgba(48,44,44,1) 70%);
+}
+
+.title-span{
+position: relative;
+left: 40%;
+}
+
+#link-home, a, .nav-link{
+  color: #fff;
+}
+
+a:hover{
+color: #fff;
+}
+
+.container-buttons-right button{
+  color: red;
+  float: right;
+  position: relative;
+  left: 998px;
+}
+
